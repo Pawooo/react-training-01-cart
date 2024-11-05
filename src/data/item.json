@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "name": "Sneakers",
+        "price": 10.99,
+        "description": "Lorem Ipsum",
+        "date": "10.22.1990"
+    },
+    {
+        "id": 2,
+        "name": "Sneakers2",
+        "price": 20.99,
+        "description": "Lorem Ipsum",
+        "date": "10.00.2000"
+    },
+    {
+        "id": 3,
+        "name": "Sneakers3",
+        "price": 20.99,
+        "description": "Lorem Ipsum",
+        "date": "10.00.2010"
+    },
+    {
+        "id": 4,
+        "name": "Sneakers4",
+        "price": 20.99,
+        "date": "10.00.2020"
+    }
+]
